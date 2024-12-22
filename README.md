@@ -1,7 +1,7 @@
 <h1 align="center">TIPE: Communication of Contactless Smart Cards - Principles and Applications</h1>
 
 <p align="center">
-  <strong>Author:</strong> Enzo Moran <br>
+  <strong>Author:</strong> Mathis Rezaï <br>
   <strong>GitHub:</strong> <a href="https://github.com/moranenzo">moranenzo</a>
 </p>
 
