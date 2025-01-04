@@ -51,7 +51,7 @@
 <h2>How to Use</h2>
 <ol>
   <li>Clone the repository:  
-    <pre><code>git clone https://github.com/moranenzo/TIPE-Contactless-Smart-Cards.git</code></pre>
+    <pre><code>git clone https://github.com/mathisrezai/TIPE-ContactlessSmartCards.git</code></pre>
   </li>
   <li>Explore the code in the <strong>/src</strong> directory for signal processing and transmission.</li>
   <li>Refer to the <strong>/docs</strong> folder for detailed explanations of the project.</li>
